@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: Python
 - description: Professional
-  icon: fa-java
-  icon_pack: fas
+  icon: java
+  icon_pack: fab
   name: Java
 - description: Advanced Beginner
   icon: microchip
