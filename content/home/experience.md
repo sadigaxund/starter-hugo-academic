@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Intern
     company: ATL Tech LLC
-    company_url: 'www.atltech.az'
-    company_logo: org-gc
+    company_url: ''
+    company_logo: atl
     location: Baku, Azerbaijan
     date_start: '2021-05-01'
     date_end: '2021-06-05'
@@ -37,8 +37,8 @@ experience:
         * C#, Asp.net Core
   - title: Intern
     company: ATL Tech LLC
-    company_url: 'www.sumaks.az/'
-    company_logo: sumaks
+    company_url: ''
+    company_logo: atl
     location: Baku, Azerbaijan
     date_start: '2019-02-01'
     date_end: '2020-08-01'
@@ -49,6 +49,24 @@ experience:
         * Logic Design
         * Electrical Engineering
         * Embedded Systems
+        
+  - title: Volunteer
+    company: Azerbaijan Red Crescent Society
+    company_url: ''
+    company_logo: red_logo
+    location: Baku, Azerbaijan
+    date_start: '2018-05-01'
+    date_end: '2021-05-01'
+    description: Spreading governmental aid packages for those who are elderly, or who are otherwise unable to meet their needs.
+        
+  - title: Trained Tutor
+    company: ADA University, Student Academic Support Services
+    company_url: ''
+    company_logo: ada
+    location: Baku, Azerbaijan
+    date_start: '2018-10-01'
+    date_end: '2021-12-25'
+    description: Tutoring and assisting students to overcome their academic challenges.
 
 
 
@@ -56,5 +74,5 @@ experience:
     
 
 design:
-  columns: '2'
+  columns: '4'
 ---
