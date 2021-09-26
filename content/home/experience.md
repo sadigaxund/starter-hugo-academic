@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Intern
     company: ATL Tech LLC
-    company_url: 'https://atltech.az/az'
+    company_url: 'www.atltech.az'
     company_logo: org-gc
     location: Baku, Azerbaijan
     date_start: '2021-05-01'
@@ -35,6 +35,20 @@ experience:
         * Software Development
         * Backend
         * C#, Asp.net Core
+  - title: Intern
+    company: ATL Tech LLC
+    company_url: 'www.sumaks.az/'
+    company_logo: sumaks_logo
+    location: Baku, Azerbaijan
+    date_start: '2019-02-01'
+    date_end: '2020-08-01'
+    description: |2-
+        Responsibilities include:
+        
+        * Arduino Programming
+        * Logic Design
+        * Electrical Engineering
+        * Embedded Systems
 
 
 
