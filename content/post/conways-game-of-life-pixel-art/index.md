@@ -12,7 +12,7 @@ image:
 
 Pixel art of Java, Google, IBM logos, and lovely doge animated using Conway's game of life program.
 
-```
+```html
 <iframe width="420" height="315"
 src="https://www.youtube.com/watch?v=Gdro5uM6_o8">
 </iframe>
