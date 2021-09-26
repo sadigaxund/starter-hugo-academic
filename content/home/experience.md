@@ -22,47 +22,20 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Intern
-    company: ATL Tech LLC
-    company_url: 'https://atltech.az/az'
-    company_logo: org-x
-    location: Baku, Azerbaijan
-    date_start: '2021-05-01'
-    date_end: '2021-06-05'
-    description: |2-
-        Responsibilities include:
-        * Software Development
-        * Backend
-        * C#, Asp.net Core
-  - title: Intern
-    company: Sumaks Technologies LTD
-    company_url: 'https://sumaks.az/'
-    company_logo: sumaks_logo
-    location: Baku, Azerbaijan
-    date_start: '2019-02-01'
-    date_end: '2020-08-01'
-    description: |2-
-        Responsibilities include:
-        * Arduino Programming
-        * Logic Design
-        * Electrical Engineering
-        * Embedded Systems
- - title: Volunteer
-    company: Azerbaijan Red Crescent Society
+  - title: CEO
+    company: GenCoin
     company_url: ''
     company_logo: org-gc
-    location: Baku, Azerbaijan
-    date_start: '2018-05-01'
-    date_end: '2021-05-01'
-    description: Spreading governmental aid packages for those who are elderly, or who are otherwise unable to meet their needs.
-- title: ADA University, Student Academic Support Services
-    company: ADA University, Student Academic Support Services
-    company_url: 'https://www.facebook.com/ADAU.SASS'
-    company_logo: org-gc
-    location: Baku, Azerbaijan
-    date_start: '2018-10-01'
-    date_end: '2021-12-25'
-    description: Tutoring and assisting students to overcome their academic challenges.
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
 
     
 
