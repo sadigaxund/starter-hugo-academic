@@ -1,6 +1,8 @@
 ---
 title: Super Mario Remake
 date: 2021-09-26T18:34:14.945Z
+tags:
+- Java
 draft: false
 featured: false
 image:
