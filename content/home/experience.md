@@ -31,7 +31,6 @@ experience:
     date_end: '2021-06-05'
     description: |2-
         Responsibilities include:
-        
         * Software Development
         * Backend
         * C#, Asp.net Core
@@ -44,7 +43,6 @@ experience:
     date_end: '2020-08-01'
     description: |2-
         Responsibilities include:
-        
         * Arduino Programming
         * Logic Design
         * Electrical Engineering
