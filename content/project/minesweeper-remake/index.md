@@ -2,7 +2,8 @@
 title: Minesweeper Remake
 date: 2021-09-26T18:35:07.126Z
 draft: false
-tag: Java
+tags:
+- Java
 featured: false
 image:
   filename: featured
