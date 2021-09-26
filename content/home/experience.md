@@ -38,7 +38,7 @@ experience:
   - title: Intern
     company: ATL Tech LLC
     company_url: 'www.sumaks.az/'
-    company_logo: sumaks_logo
+    company_logo: sumaks
     location: Baku, Azerbaijan
     date_start: '2019-02-01'
     date_end: '2020-08-01'
