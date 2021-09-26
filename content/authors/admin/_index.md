@@ -1,6 +1,7 @@
 ---
 title: Sadig Akhund
 role: Computer Scientist & Data Analyst
+avatar_filename: img-20190517-wa0023.jpg
 bio: My fields of interests include robotics, data science and computer science.
 interests:
   - Artificial Intelligence
