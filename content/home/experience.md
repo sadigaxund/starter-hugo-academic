@@ -36,9 +36,9 @@ experience:
         * Backend
         * C#, Asp.net Core
   - title: Intern
-    company: ATL Tech LLC
+    company: Sumaks Technologies LTD
     company_url: ''
-    company_logo: atl
+    company_logo: sumaks
     location: Baku, Azerbaijan
     date_start: '2019-02-01'
     date_end: '2020-08-01'
