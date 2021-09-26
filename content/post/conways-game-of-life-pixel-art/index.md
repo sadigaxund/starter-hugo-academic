@@ -4,7 +4,7 @@ date: 2021-09-26T16:56:47.942Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: java.png
   focal_point: Smart
   preview_only: false
 ---
