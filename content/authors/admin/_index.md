@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: sadigaxund@gmail.com
+    link: mailto:sadigaxund@gmail.com?subject=contact
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA
