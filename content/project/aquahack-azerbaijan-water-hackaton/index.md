@@ -2,6 +2,8 @@
 title: AquaHack - Azerbaijan Water Hackaton
 subtitle: River Monitoring Devices
 date: 2021-09-26T18:35:29.122Z
+tags:
+- Demo
 draft: false
 featured: false
 image:
