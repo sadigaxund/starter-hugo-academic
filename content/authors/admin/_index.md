@@ -39,8 +39,11 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+At the start of my career and the academic path, I was obsessed with Technology, Engineering, and especially Robotics. I always thought my dream was to be an electrical and a computer engineer for a small-scaled tech company, working on an invention, soldering some lead, and working on my evil-genius side-project to conquer the world. It seemed perfect goal given my BSc in Computer Engineering. I slowly drifted towards the world of data and even started to pursue my MSc degree. And that's when the story starts; the catalyst I was missing reacted the instant I enrolled in my first professional certificate course by Google. Since then, my thirst for knowledge has not stopped.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As for my specialties, one could say that critical thinking and problem-solving are present. Up until now, I got to experience and gain skills in Java (Swing, Spring), Python (NumPy, Matplotlib, Pandas, PyGame☺), Jython, C, C++, Kotlin, SQL, Kali Linux, Bash Scripting, HTML, CSS, Assembly, Arduino, Robot Operating System, Embedded C, C#(.net core, MVC), Git & GitHub, Microsoft Excel, Cisco Networks, Unreal Engine, Core Editor. Currently, I've started diving deeper into the realm of data science and analytics and exploring the R language.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Outside of work, I choose to idle away the hours in many ways. I enjoy fishing (or at least an attempt) when the season comes. To dawdle evenings with the squad playing video games or just chatting is the way to rewind my tapes and charge my batteries. Once in a while, an eco-enthusiast inside me awakens and I relish hiking, gardening, and seeking less urban scenes. Moreover, I would not reject a fine game of pool, challenging match of chess, and relaxing round of UNO.
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1GoFQAfKZbrUzdw3D4ZmA130pdHur0mDr/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
