@@ -21,7 +21,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: Professional
-  icon: java
+  icon: fa-java
   icon_pack: fas
   name: Java
 - description: Advanced Beginner
