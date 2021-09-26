@@ -46,4 +46,4 @@ As for my specialties, one could say that critical thinking and problem-solving 
 Outside of work, I choose to idle away the hours in many ways. I enjoy fishing (or at least an attempt) when the season comes. To dawdle evenings with the squad playing video games or just chatting is the way to rewind my tapes and charge my batteries. Once in a while, an eco-enthusiast inside me awakens and I relish hiking, gardening, and seeking less urban scenes. Moreover, I would not reject a fine game of pool, challenging match of chess, and relaxing round of UNO.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1GoFQAfKZbrUzdw3D4ZmA130pdHur0mDr/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/drive/folders/1dIRJuj-c38vpGZE5NccF34W6RqKxbTFd?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
