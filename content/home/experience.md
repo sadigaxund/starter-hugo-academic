@@ -38,7 +38,7 @@ experience:
   - title: Intern
     company: Sumaks Technologies LTD
     company_url: 'https://sumaks.az/'
-    company_logo: org-gc
+    company_logo: sumaks_logo
     location: Baku, Azerbaijan
     date_start: '2019-02-01'
     date_end: '2020-08-01'
