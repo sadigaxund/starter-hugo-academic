@@ -1,0 +1,15 @@
+---
+title: Conway's Game of Life | Pixel Art
+date: 2021-09-26T16:56:47.942Z
+draft: false
+featured: false
+image:
+  filename: featured
+  focal_point: Smart
+  preview_only: false
+---
+<!--StartFragment-->
+
+Pixel art of Java, Google, IBM logos, and lovely doge animated using Conway's game of life program.
+
+<!--EndFragment-->
