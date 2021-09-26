@@ -4,9 +4,9 @@ role: Computer Scientist & Data Analyst
 avatar_filename: img-20190517-wa0023.jpg
 bio: My fields of interests include robotics, data science and computer science.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Robotics
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -14,9 +14,6 @@ social:
   - icon: youtube
     icon_pack: fab
     link: https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/sadigaxund
