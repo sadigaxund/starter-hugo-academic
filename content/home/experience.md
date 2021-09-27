@@ -74,5 +74,5 @@ experience:
     
 
 design:
-  columns: '4'
+  columns: '2'
 ---
