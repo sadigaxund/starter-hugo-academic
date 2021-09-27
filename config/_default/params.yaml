@@ -35,10 +35,10 @@ contact_links:
     icon_pack: fab
     name: Watch
     link: 'https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA'
-  - icon: keybase
+  - icon: facebook
     icon_pack: fab
-    name: Connect
-    link: 'https://www.linkedin.com/in/sakhund'
+    name: Add me
+    link: 'https://www.facebook.com/sadiq.axund'
 
 
 # Site header
