@@ -18,7 +18,8 @@ image:
 <br>
   
 <center>
-  <button style="font-size:24px" onclick="onclick="window.location.href='https://github.com/sadigaxund/Math-and-Coding-Challanges/tree/main/1.%20Conway's%20Game%20of%20Life';">">Source Code <i class="fa fa-github"></i></button>
+  <button style="font-size:24px" onclick="window.location.href='https://bit.ly/3kuDNe1';" style="font-size:24px">Source Code <i class="fa fa-github"></i></button>
+
 </center>
 
 
