@@ -1,8 +1,4 @@
 # SITE SETUP
-# Guide: https://wowchemy.com/docs/getting-started/
-# Documentation: https://wowchemy.com/docs/
-# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 # Appearance
 
 theme: minimal
@@ -20,40 +16,30 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: sadigaxund@gmail.com
+phone: +994 (70) 318 59 49
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
-coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  street: Tabriz 18
+  city: Baku
+  region: AZ
+  postcode: '1008'
+  country: Azerbaijan
+  country_code: AZ
+
 contact_links:
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/Twitter'
-  - icon: skype
+    name: Connect
+    link: 'https://www.linkedin.com/in/sakhund'
+  - icon: youtube
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:echo123?call'
+    name: Watch
+    link: 'https://www.youtube.com/channel/UC2gQPeLhl99dIn_xDaWeVQA'
   - icon: keybase
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: Connect
+    link: 'https://www.linkedin.com/in/sakhund'
+
 
 # Site header
 
@@ -110,9 +96,6 @@ plugins_js: []
 avatar:
   gravatar: false
   shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
 projects:
   post_view: 2
   publication_view: 2
