@@ -18,16 +18,7 @@ image:
 <br>
   
 <center>
-  <button style="font-size:24px" onclick="openInNewTab('https://github.com');">Source Code <i class="fa fa-github"></i></button>
+  <button style="font-size:24px" onclick="onclick="window.location.href='https://github.com/sadigaxund/Math-and-Coding-Challanges/tree/main/1.%20Conway's%20Game%20of%20Life';">">Source Code <i class="fa fa-github"></i></button>
 </center>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <script type="text/javascript">
-    function openInNewTab(href) {
-      Object.assign(document.createElement('a'), {
-        target: '_blank',
-        href: href,
-      }).click();
-    }
-    </script>
+
 
