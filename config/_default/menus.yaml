@@ -17,7 +17,7 @@ main:
     url: '#contact'
     weight: 40
   - name: CV
-    url: uploads/resume.pdf
+    url: 'https://drive.google.com/drive/folders/1dIRJuj-c38vpGZE5NccF34W6RqKxbTFd?usp=sharing'
     weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
