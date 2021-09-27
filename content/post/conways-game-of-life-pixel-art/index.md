@@ -18,6 +18,7 @@ image:
 <br>
   
 <center>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <button style="font-size:24px" onclick="window.location.href='https://bit.ly/3kuDNe1';" style="font-size:24px">Source Code <i class="fa fa-github"></i></button>
 
 </center>
