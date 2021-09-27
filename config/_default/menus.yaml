@@ -16,7 +16,7 @@ main:
   - name: Contact
     url: '#contact'
     weight: 40
-  - name: CV
+  - name: Resumé
     url: 'https://drive.google.com/drive/folders/1dIRJuj-c38vpGZE5NccF34W6RqKxbTFd?usp=sharing'
     weight: 50
 
