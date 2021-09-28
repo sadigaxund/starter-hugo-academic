@@ -11,4 +11,10 @@ external_link: https://github.com/sadigaxund/Minesweeper
 image:
   caption: © Microsoft
   focal_point: Smart
+
+links:
+- icon: GitHub
+  icon_pack: fab
+  name: Source Code
+  url: https://github.com/sadigaxund/Minesweeper
 ---

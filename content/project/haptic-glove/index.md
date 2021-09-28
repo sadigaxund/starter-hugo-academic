@@ -12,4 +12,14 @@ external_link: https://github.com/sadigaxund/Haptic-Glove-Teleoperation
 image:
   caption: Haptics
   focal_point: Smart
+
+links:
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
+  url: https://youtu.be/e0h6KEz9pS8
+- icon: GitHub
+  icon_pack: fab
+  name: Source Code
+  url: https://github.com/sadigaxund/Haptic-Glove-Teleoperation
 ---

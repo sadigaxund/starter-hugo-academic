@@ -17,6 +17,11 @@ links:
   icon_pack: fab
   name: Source Code
   url: https://github.com/sadigaxund/SuperMarioGame
+- icon: youtube
+  icon_pack: fab
+  name: YouTube
+  url: https://youtu.be/L7nJP7ndM3I
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
