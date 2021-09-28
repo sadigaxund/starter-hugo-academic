@@ -13,12 +13,13 @@ image:
   focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Source Code
+  url: https://github.com/sadigaxund/aquahack_youngsharks
 - icon: youtube
   icon_pack: fab
   name: YouTube
   url: https://youtu.be/IveiurRLPk0
-- icon: GitHub
-  icon_pack: fab
-  name: Source Code
-  url: https://github.com/sadigaxund/aquahack_youngsharks
+
 ---

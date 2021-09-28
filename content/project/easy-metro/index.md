@@ -15,12 +15,13 @@ image:
   focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Source Code
+  url: https://github.com/sadigaxund/CSCI2304-TermProject-EasyMetro
 - icon: youtube
   icon_pack: fab
   name: YouTube
   url: https://youtu.be/aRjqdZ3p5w0
-- icon: GitHub
-  icon_pack: fab
-  name: Source Code
-  url: https://github.com/sadigaxund/CSCI2304-TermProject-EasyMetro
+
 ---

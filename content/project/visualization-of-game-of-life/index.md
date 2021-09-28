@@ -13,12 +13,13 @@ image:
   focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Source Code
+  url: https://bit.ly/3kuDNe1
 - icon: youtube
   icon_pack: fab
   name: YouTube
   url: https://youtu.be/Gdro5uM6_o8
-- icon: GitHub
-  icon_pack: fab
-  name: Source Code
-  url: https://bit.ly/3kuDNe1
+
 ---

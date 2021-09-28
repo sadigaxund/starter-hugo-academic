@@ -14,12 +14,13 @@ image:
   focal_point: Smart
 
 links:
+- icon: github
+  icon_pack: fab
+  name: Source Code
+  url: https://github.com/sadigaxund/Haptic-Glove-Teleoperation
 - icon: youtube
   icon_pack: fab
   name: YouTube
   url: https://youtu.be/e0h6KEz9pS8
-- icon: GitHub
-  icon_pack: fab
-  name: Source Code
-  url: https://github.com/sadigaxund/Haptic-Glove-Teleoperation
+
 ---

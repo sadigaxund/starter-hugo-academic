@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-- icon: GitHub
+- icon: github
   icon_pack: fab
   name: Source Code
   url: https://github.com/sadigaxund/Minesweeper
