@@ -1,6 +1,6 @@
 ---
 title: Super Mario Remake
-summary: A remake of the Super Mario Bros game using Java programming language.
+summary: 🎮 A remake of the Super Mario Bros game using Java programming language.
 tags:
 - Java
 date: "2016-04-27T00:00:00Z"
@@ -48,7 +48,7 @@ slides: example
 
 
 ## :tv: Video
-Click <a href="https://www.youtube.com/watch?v=L7nJP7ndM3I" target="_blank">here</a> to see Demonstration video on YouTube.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L7nJP7ndM3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ## :wrench: Setup
@@ -99,4 +99,3 @@ Email: sadigaxund@gmail.com
 [license]: https://github.com/sadigaxund/SuperMarioGame/blob/master/LICENSE
 [profile]: https://github.com/sadigaxund
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L7nJP7ndM3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
